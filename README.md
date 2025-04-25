@@ -24,19 +24,6 @@ Lap: 00:00:07
 Lap: 00:00:22
 ...
 
-How to Use ⚙️
-
-1. Clone this repo:
-
-git clone https://github.com/your-username/inline-stopwatch.git
-
-
-2. Open task2.html in your browser.
-
-
-3. Click buttons to start timing, pause, reset, or record laps.
-
-
 
 File Structure 📁
 
@@ -57,4 +44,3 @@ License 📄
 This project is licensed under the MIT License.
 
 
--- 
