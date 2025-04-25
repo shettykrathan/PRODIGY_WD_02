@@ -1,8 +1,3 @@
-Here’s a fun and informative README.md for your Inline Stopwatch project with emojis:
-
-
----
-
 Inline Stopwatch ⏱️🖥️
 
 A minimal and elegant web-based stopwatch built with pure HTML, CSS, and JavaScript. Includes lap tracking, start/pause/reset functionality, and a clean UI – all in one file!
